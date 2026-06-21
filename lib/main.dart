@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false, // Menghilangkan banner debug di pojok kanan atas
-      title: 'Aplikasi Produk Laravel',
+      title: 'Mattz Store',
       theme: ThemeData(
         primarySwatch: Colors.blue,
         useMaterial3: true, // Mengaktifkan desain Material 3 yang lebih modern
